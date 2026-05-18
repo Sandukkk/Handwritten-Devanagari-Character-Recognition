@@ -1,7 +1,7 @@
 ## **Handwritten Devanagari Character Recognition: Conjunct Consonants**
 
 <div align="center">
-  <img src="Images/intro.PNG" alt="Project Banner" width="200"/>
+  <img src="Images/intro.PNG" alt="Project Banner" width="400"/>
 </div>
 
 ## **Project Objective**

@@ -1,10 +1,10 @@
-##Handwritten Devanagari Character Recognition: Conjunct Consonants
+## **Handwritten Devanagari Character Recognition: Conjunct Consonants**
 
 <div align="center">
-  <img src="Images/intro.PNG" alt="Project Banner" width="800"/>
+  <img src="Images/intro.PNG" alt="Project Banner" width="200"/>
 </div>
 
-##Project Objective
+## **Project Objective**
 Despite major advancements in Optical Character Recognition (OCR), recognizing complex Devanagari **conjunct consonants** remains a massive challenge. Most existing systems only focus on basic consonants, vowels, and numbers. 
 
 The objective of this project is to fix this gap by creating a brand new, highly diverse dataset specifically for Devanagari conjunct consonants, and then training deep learning models to recognize them with high accuracy.
@@ -13,7 +13,7 @@ The objective of this project is to fix this gap by creating a brand new, highly
   <img src="Images/dataset-sample.PNG" alt="Dataset Samples" width="200"/>
   <p><i>Set of conjunct consonants we worked on</i></p>
 </div>
-##What We Did
+## **What We Did**
 
 * **Created the HDCOCO Dataset:** We built the *Handwritten Devanagari COnjunct COnsonants* (HDCOCO) dataset from scratch. It contains 50,020 images representing 41 distinct conjunct consonant characters.
 * **Ensured Diversity:** To make the dataset robust, we collected handwriting samples from multiple schools and public exhibitions, capturing a wide variety of writing styles, ages, and demographics.
@@ -25,7 +25,7 @@ The objective of this project is to fix this gap by creating a brand new, highly
   <p><i>Sample images of the 41 Devanagari conjunct consonants from the HDCOCO dataset.</i></p>
 </div>
 
-##Final Results
+## **Final Results**
 The project successfully established new state-of-the-art benchmarks for Devanagari OCR. Out of all the models tested, the **ResNet-34** architecture performed the best, offering an incredible balance of high accuracy and fast processing time.
 
 **Key Accuracy Metrics:**

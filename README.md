@@ -13,6 +13,7 @@ The objective of this project is to fix this gap by creating a brand new, highly
   <img src="Images/dataset-sample.PNG" alt="Dataset Samples" width="400"/>
   <p><i>Set of conjunct consonants we worked on</i></p>
 </div>
+
 ## **What We Did**
 
 * **Created the HDCOCO Dataset:** We built the *Handwritten Devanagari COnjunct COnsonants* (HDCOCO) dataset from scratch. It contains 50,020 images representing 41 distinct conjunct consonant characters.

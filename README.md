@@ -10,7 +10,7 @@ Despite major advancements in Optical Character Recognition (OCR), recognizing c
 The objective of this project is to fix this gap by creating a brand new, highly diverse dataset specifically for Devanagari conjunct consonants, and then training deep learning models to recognize them with high accuracy.
 
 <div align="center">
-  <img src="Images/dataset-sample.PNG" alt="Dataset Samples" width="200"/>
+  <img src="Images/dataset-sample.PNG" alt="Dataset Samples" width="400"/>
   <p><i>Set of conjunct consonants we worked on</i></p>
 </div>
 ## **What We Did**
@@ -21,7 +21,7 @@ The objective of this project is to fix this gap by creating a brand new, highly
 * **Trained Deep Learning Models:** Instead of building from scratch, we used "transfer learning" on proven Convolutional Neural Network (CNN) architectures (like VGG and ResNet) to teach them how to read these complex characters.
 
 <div align="center">
-  <img src="Images/conjuncts-set.PNG" alt="Dataset Samples" width="200"/>
+  <img src="Images/conjuncts-set.PNG" alt="Dataset Samples" width="400"/>
   <p><i>Sample images of the 41 Devanagari conjunct consonants from the HDCOCO dataset.</i></p>
 </div>
 
@@ -35,7 +35,7 @@ The project successfully established new state-of-the-art benchmarks for Devanag
 By introducing this new dataset and proving the effectiveness of models like ResNet-34, this project lays a strong foundation for the future of document digitization and text recognition for Devanagari-based languages.
 
 <div align="center">
-  <img src="Images/results.PNG" alt="Accuracy and Loss Graphs" width="200"/>
+  <img src="Images/results.PNG" alt="Accuracy and Loss Graphs" width="400"/>
   <p><i>Training and validation results for the ResNet-34 model.</i></p>
 </div>
 

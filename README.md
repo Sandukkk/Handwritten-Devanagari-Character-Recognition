@@ -11,7 +11,7 @@ The objective of this project is to fix this gap by creating a brand new, highly
 
 <div align="center">
   <img src="Images/dataset-sample.PNG" alt="Dataset Samples" width="400"/>
-  <p><i>Set of conjunct consonants we worked on</i></p>
+  <p><i>Sample images of the 41 Devanagari conjunct consonants from the HDCOCO dataset.</i></p>
 </div>
 
 ## **What We Did**
@@ -23,7 +23,7 @@ The objective of this project is to fix this gap by creating a brand new, highly
 
 <div align="center">
   <img src="Images/conjuncts-set.PNG" alt="Dataset Samples" width="400"/>
-  <p><i>Sample images of the 41 Devanagari conjunct consonants from the HDCOCO dataset.</i></p>
+  <p><i>Set of conjunct consonants we worked on</i></p>
 </div>
 
 ## **Final Results**
